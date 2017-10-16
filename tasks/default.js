@@ -1,3 +1,4 @@
-import gulp from 'gulp';
+import gulp from "gulp";
 
-gulp.task('default',['build']);
+// defalt任务 关联所有的任务
+gulp.task("default",["build"]);

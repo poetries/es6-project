@@ -1,6 +1,6 @@
 class Test {
     constructor() {
-        this.a = "hello";
+        this.a = "hello1";
     }
 }
 
