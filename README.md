@@ -1,4 +1,4 @@
-ES6 Tick project
+ES6 project
 ---
 
 Usage
