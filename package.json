@@ -42,5 +42,8 @@
     "webpack": "^3.7.1",
     "webpack-stream": "^4.0.0",
     "yargs": "^9.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
   }
 }
